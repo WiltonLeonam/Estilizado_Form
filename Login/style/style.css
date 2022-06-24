@@ -1,0 +1,12 @@
+body{
+  background: radial-gradient(circle, #ffffff, #c0c0c0, #000000);
+  background-size: 400% 400%;
+  height: 100vh;
+}
+
+form{
+  position: absolute;
+  top:200px;
+  left:600px;
+  box-shadow: 20px 20px 10px #ffffff,30px 30px 20px #c0c0c0;
+}
